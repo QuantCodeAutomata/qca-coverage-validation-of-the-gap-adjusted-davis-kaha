@@ -1,0 +1,9 @@
+gap,estimator,alpha=0.25,alpha=0.50,alpha=0.75,alpha=0.90,alpha=1.00,alpha_star
+strong,sample,1.38,0.69,0.0,0.0,0.0,0.25
+strong,LW,1.38,0.69,0.0,0.0,0.0,0.25
+strong,QIS,1.38,0.69,0.0,0.0,0.0,0.25
+strong,MP-clip,1.38,0.69,0.0,0.0,0.0,0.25
+weak,sample,2.3,0.23,0.0,0.0,0.0,0.25
+weak,LW,2.3,0.23,0.0,0.0,0.0,0.25
+weak,QIS,2.3,0.23,0.0,0.0,0.0,0.25
+weak,MP-clip,2.3,0.23,0.0,0.0,0.0,0.25

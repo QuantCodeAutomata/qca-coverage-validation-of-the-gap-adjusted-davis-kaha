@@ -1,0 +1,5 @@
+Subperiod,n_dates,Median_D_hat,Analytic_flag_%,Band_flag_%,Weak_ID_%,Median_AR_K,Median_kappa_hat
+Calm_2017_19,754,0.0083,2.5,4.0,0.0,0.3325,2.161
+GFC_2008_09,209,0.0044,8.6,23.4,0.0,0.5266,1.476
+COVID_2020,104,0.006,19.2,38.5,0.0,0.633,2.87
+RateHikes_2022_23,501,0.0075,3.2,5.4,0.0,0.385,1.641

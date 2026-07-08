@@ -1,0 +1,13 @@
+N,M,Procedure,mean_ms
+50,126,Band,0.12
+50,126,Analytic (200 draws),21.47
+50,126,Bootstrap-QIS (B=20),77.0
+50,126,Bootstrap-QIS (B=40),157.36
+50,126,Bootstrap-sample (B=20),25.43
+50,126,Bootstrap-sample (B=40),62.83
+115,252,Band,0.56
+115,252,Analytic (200 draws),29.61
+115,252,Bootstrap-QIS (B=20),282.85
+115,252,Bootstrap-QIS (B=40),578.75
+115,252,Bootstrap-sample (B=20),171.03
+115,252,Bootstrap-sample (B=40),300.21
